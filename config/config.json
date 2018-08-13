@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "program1",
+    "database": "cannon_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "jodelat",
+    "password": "dlt12345",
+    "database": "ebdb",
+    "host": "aa8coe14gytv6p.cnwl45j66ekm.us-west-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "jodelat",
+    "password": "dlt12345",
+    "database": "ebdb",
+    "host": "aa8coe14gytv6p.cnwl45j66ekm.us-west-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
